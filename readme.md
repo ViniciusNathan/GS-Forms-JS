@@ -2,9 +2,9 @@
 
 ## Participantes
 
-Bruno - RM 568316
-Venicio - RM 568088
-Vinicius - RM 567105
+* Bruno - RM 568316
+* Venicio - RM 568088
+* Vinicius - RM 567105
 
 ## Sobre
 
